@@ -11,11 +11,11 @@ Website	www.ram.com
 
 <?php
 $info = [
-    'name'    => 'Bimal Acharya',
+    'name'    => 'Prem Bahadur Thapa',
     'address' => 'Bhaktapur',
-    'email'   => 'Sharmabimal3412@gmail.com',
-    'phone'   => 9800733052,
-    'website' => 'www.Batauli-Gamers.com'
+    'email'   => 'info@prem.com',
+    'phone'   => 98454545,
+    'website' => 'www.prem.com'
 ];
 ?>
 
